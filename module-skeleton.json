@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-audit-and-history-react-native",
+  "capabilityKey": "planned:cms:audit-and-history",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-audit-and-history-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/audit-and-history.md",
+  "presentationPlan": "projects/cms/react-native/audit-and-history.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
